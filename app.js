@@ -11,3 +11,4 @@
 //   li.innerHTML = 'WE ARE <b>THE CHAMPIONS</b>'
 // }
 // innerHtml
+// get set attribute
