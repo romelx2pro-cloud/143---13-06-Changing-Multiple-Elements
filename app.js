@@ -13,12 +13,12 @@
 // innerHtml
 // get set attribute
 // 142 - Finding ParentChildrenSiblings English
-const allLis = document.querySelectorAll("li");
-for (let i = 0; i < allLis.length; i++) {
-  const element = allLis[i].innerHTML;
+// const allLis = document.querySelectorAll("li");
+// for (let i = 0; i < allLis.length; i++) {
+//   const element = allLis[i].innerHTML;
 
-  console.log((allLis[i].innerText = "li"));
-}
-for (const li of allLis) {
-  console.log((li.innerHTML = "<b>bold Li</b>"));
-}
+//   console.log((allLis[i].innerText = "li"));
+// }
+// for (const li of allLis) {
+//   console.log((li.innerHTML = "<b>bold Li</b>"));
+// }
